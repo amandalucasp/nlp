@@ -1,4 +1,4 @@
-# Learning NLP
+# NLP - Portuguese Tweets for Sentiment Analysis
 
 Repositório contém dois arquivos referente a dois projetos realisados em cima do mesmo conjunto de dados: ["Portuguese Tweets for Sentiment Analysis"](https://www.kaggle.com/augustop/portuguese-tweets-for-sentiment-analysis). A ideia foi explorar o problema considerando 2 e 3 classes.
 
